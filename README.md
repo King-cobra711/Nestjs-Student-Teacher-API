@@ -18,31 +18,21 @@ Features include:
 ## Installation
 
 ```bash
-$ npm install
+$ mkdir nestjs-API
+$ cd nestjs-API
+$ git init
+$ git pull https://github.com/King-cobra711/Nestjs-Student-Teacher-API.git
 ```
 
 ## Running the app
 
 ```bash
+$ npm i (install all dependencies)
 # development
-$ npm run start
+$ npm start dev
 
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
 ```
 
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
+## Resources
+* [Laith Harb](https://www.youtube.com/watch?v=S0R82Osg-Mk&ab_channel=LaithHarb) Youtube channel for this tutorial.
+* [Documentation](https://docs.nestjs.com/) for NestJS
