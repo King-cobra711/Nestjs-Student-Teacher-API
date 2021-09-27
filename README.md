@@ -9,7 +9,7 @@ Features include:
 * Create new student
 * Update student
 
-###Teachers
+### Teachers
 * Get all teachers
 * Get teacher by ID
 * Get all students in a teacher's class
